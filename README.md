@@ -3,7 +3,7 @@
 
 # Desafio 02
 
-*Desafio 02 do bootcamp **GoReact** | [Rocketseat](https://rocketseat.com.br)*
+*Desafio mega blaster hardcore monstro memo 02 do bootcamp **GoReact** | [Rocketseat](https://rocketseat.com.br)*
 
 > Configure uma estrutura com **create-react-app**. Além disso, utilize as ferramentas **ESLint, EditorConfig e Prettier** durante o desenvolvimento desse projeto.
 >
